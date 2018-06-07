@@ -9,7 +9,7 @@
             "serverInstance": "BDCkursus_MTH_SLN",
             "authentication": "UserPassword",
             "port": 8049,
-            "startupObjectId": 22
+            "startupObjectId": 123456702
         }
     ]
 }

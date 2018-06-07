@@ -84,9 +84,9 @@ page 123456701 "Seminar Card"
             {
                 action("Co&mments")
                 {
-                    //RunObject = page "Seminar Comment Sheet";
-                    //RunPageLink = "Table Name"= const(Seminar),
-                    // "No."=field("No.");
+                    RunObject = page "Seminar Comment Sheet";
+                    RunPageLink = "Table Name"= const(Seminar),
+                    "No."=field("No.");
                     Image = Comment;
                     Promoted = true;
                     PromotedIsBig = true;
